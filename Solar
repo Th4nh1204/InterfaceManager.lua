@@ -1,9 +1,9 @@
 local httpService = game:GetService("HttpService")
 
 local InterfaceManager = {} do
-	InterfaceManager.Folder = "SolarHub_Settings"
+	InterfaceManager.Folder = "SolarHub"
     InterfaceManager.Settings = {
-        Theme = "Dark",
+        Theme = "Solar",
         Acrylic = true,
         Transparency = true,
         MenuKeybind = "LeftControl"
